@@ -7,15 +7,8 @@ import { en, es, pt } from './lib/idiomas/total-idiomas.js'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['593959425714', '🔰 𝐃𝐈𝐄𝐆𝐎 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰', true],
-  ['51993138466', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰', true],
-  ['573184314110', '🔰 𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 3 🔰', true],
-  ['50246028932', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 4 🔰', true],
-  ['51936767238'],
-  //['593968585383'], DEJEN ESTO ASÍ POR AHORA POR FAVOR
-  ['51957041866'],
-  ['584125778026']
-
+  ['19292146671', '🔮 𝐀𝐒𝐇𝐄𝐑 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔮', true],
+  ['16604606338', '🔰  𝐌𝐔𝐋𝐋𝐈𝐄𝐙 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰', true],
 ] 
 global.suittag = ['593959425714'] 
 global.mods = ['595986674310'] 
@@ -84,7 +77,7 @@ global.APIKeys = { // APIKey Here
 global.lenguajeGB = es //Idioma de †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤, Ejemplo: es | en | pt ....
 
 /* ______________________________________________ */
-global.creadorname = '𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂'
+global.creadorname = '𝐀𝐒𝐇𝐄𝐑-𝐎𝐅𝐂'
 global.creatorname = creadorname
 global.library = 'BAILEYS-MD'
 global.vs = '1.3.7'
@@ -100,7 +93,7 @@ global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //------------- Sticker WM -----------
 global.packname = `👑 ➢ Owner:\n📅 ➢ Día:\n🕒 ➢ Hora:\n🗓️ ➢ Fecha:\n☯️ ➢ By:`
-global.author = `▸ 𝙳𝙸𝙴𝙶𝙾-𝙾𝙵𝙲\n▸ ${dia}\n▸ ${tiempo}\n▸ ${fecha}\n▸ 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃`
+global.author = `▸ 𝔸𝕊ℍ𝔼ℝ-𝙾𝙵𝙲\n▸ ${dia}\n▸ ${tiempo}\n▸ ${fecha}\n▸ 𝐌𝐔𝐋𝐋𝐈𝐄𝐙 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃
 //_______________
 global.wm = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ | 𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾'
 global.igfg = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
@@ -121,11 +114,11 @@ global.fg = '☆━━━━ ⚠️ 𝙵𝙰𝙻𝙻𝙾 ⚠️ ━━━☆'
 global.fallo = fg
 global.mg = '══ ❎ 𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 ❎ ══'
 global.mal = mg
-global.dorre = 'DORRAT-BOT-MD'
+global.dorre = '𝐌𝐔𝐋𝐋𝐈𝐄𝐙 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃'
 global.DORRA = dorre
 
 /* Imagenes___________________ */
-global.imagen1 = fs.readFileSync('./Menu2.jpg')
+global.imagen1 = https://i.pinimg.com/564x/c4/9e/42/c49e42ff77a1eeb6d753fdf5c74660e('./Menu2.jpg')
 global.imagen2 = fs.readFileSync('./galeria/nuevobot.jpg') 
 global.imagen3 = fs.readFileSync('./galeria/Pre Bot Publi.png')
 global.imagen4 = fs.readFileSync('./galeria/menudorrat3.jpg')
