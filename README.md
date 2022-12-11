@@ -1,11 +1,11 @@
-# `🍁 𝑫𝑶𝑹𝑹𝑨𝑻-𝑩𝑶𝑻-𝑴𝑫 🍁`
+# `🍁 𝑴𝑼𝑳𝑳𝑰𝑬𝒁 𝑫𝑶𝑹𝑹𝑨𝑻-𝑩𝑶𝑻-𝑴𝑫 🍁`
 <p align="center"> 
-  <a href="https://github.com/DIEGO-OFC/DORRAT-BOT-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=DORRAT+BOT+MD++🤖;Gracias+por+visitar+este+repositorio.💥" height="90px"
+  <a href="https://github.com/DIEGO-OFC/DORRAT-BOT-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=MULLIEZ+BOT+MD++🤖;Gracias+por+visitar+este+repositorio.💥" height="90px"
 </p> 
 
 
 <p align="center">
-<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/>
+<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="MULLIEZ-BOT-MD" width="900"/>
 </p>
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
